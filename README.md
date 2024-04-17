@@ -8,3 +8,5 @@ git push -u origin main   <br> <br>
 git add README.md   <br>
 git commit -m "first commit"   <br>
 git push -u origin main
+
+수정
